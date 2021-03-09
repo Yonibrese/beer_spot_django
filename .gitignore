@@ -2,3 +2,5 @@
 
      #pycarm config files
      .idea
+     #basic db
+    db.sqlite3
